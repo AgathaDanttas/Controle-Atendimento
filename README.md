@@ -181,4 +181,4 @@ PUT /chamados/1/finalizar
 
 ## 👩‍💻 Desenvolvido por
 
-**Agatha Dantas** — Processo Seletivo W5i · Estágio 2026
+**Agatha Dantas** — W5i · Estágio 2026
